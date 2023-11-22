@@ -90,7 +90,3 @@ public class hashing{
     }
 
 }
-
-        // for(int i = 0; i < ids.length; i++){
-        //     System.out.println(ids[i]);
-        // }
